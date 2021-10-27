@@ -3,5 +3,23 @@
     "discord.js": "^13.2.0",
     "dotenv": "^10.0.0",
     "ytdl-core": "^4.9.1"
-  }
+  },
+  "name": "aiode",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunk347/aiode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunk347/aiode/issues"
+  },
+  "homepage": "https://github.com/arunk347/aiode#readme",
+  "description": ""
 }
